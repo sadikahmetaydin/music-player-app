@@ -2,7 +2,7 @@
 A music player app build with html, css and javascript.
 
 # 💡About this project 
-// ........
+In this music player app, you can listen to any song you want and skip forward or backward.
 
 ## ⚡Technologies
 * `HTML`
